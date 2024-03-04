@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrunalBansode
 - 👀 I’m interested in Software Testing (Manual + Automation)
 - 🌱 I’m currently learning RestAssured for API Tesing
-- 📫 How to reach me mrunalb63@gmail.com
+- 📫 How to reach me mrunalbansode565@gmail.com
 
 <!---
 MrunalBansode/MrunalBansode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
